@@ -59,8 +59,6 @@ Pandas
 
 NumPy
 
-Scikit-learn
 
-Matplotlib
 
 Jupyter Notebook
